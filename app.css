@@ -1,0 +1,1160 @@
+#contentIndex {
+
+text-align: center;
+padding-top: 10%;
+margin-top: 25%;
+text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+}
+
+#contentGeneral {
+
+text-align: center;
+padding-top: none;
+/*padding-bottom: 45px;*/
+margin-bottom: 5%;
+text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+}
+
+.aboutHeader {
+
+text-align: center;
+padding-top: none;
+/*padding-bottom: 45px;*/
+margin-bottom: 5%;
+text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+}
+
+img{
+	margin-right: -15px;
+	width: 90%;
+}
+
+html {
+
+	height: 100%;
+
+}
+
+nav {
+
+	font-family: Lato;
+	font-weight: 300;
+	font-size: 18px;
+
+}
+
+nav li {
+
+padding-left: 15px;
+
+}
+
+body {
+
+font-family: Lato;
+/*font-family: Montserrat;*/
+color: white;
+
+/*background: url("pictures/outside1.jpg");*/
+background: url("pictures/woodBG2.jpg");
+/*background: rgba(20, 20, 20, 1);*/
+background-size: cover;
+background-position: center;
+
+}
+
+#firstPic {
+
+background: url("pictures/outside1.jpg");
+background-size: cover;
+background-position: center;
+
+}
+
+hr {
+
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+	border-top: 1px solid #f8f8f8;
+	width: 400px;
+}
+
+.hr2 {
+/* Horizontal rule of menu and drinks page */
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+	border-top: 1px solid #f8f8f8;
+	width: 350px;
+	margin-top: 0;
+	margin-bottom: 0;
+
+}
+
+.navbar-inverse{
+
+    background-color: rgba(24, 24, 24, 1);
+		border: none;
+
+}
+
+@font-face {
+    font-family: GothFont;
+    src: url(Fonts/Goth.ttf);
+}
+
+.navbar-inverse .navbar-brand{
+
+	color: white;
+}
+
+.navbar-inverse .navbar-brand:hover{
+
+	color: rgb(255, 246, 147);
+	transition: 0.5s;
+
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: rgb(255, 246, 147);
+    background-color: transparent;
+		transition: 0.5s;
+}
+
+.navbar-brand {
+font-family: GothFont;
+font-size: 30px;
+
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: rgb(255, 246, 147);
+    background-color: #080808;
+
+}
+
+.Logo {
+
+height: 270px;
+width: 350;
+
+}
+
+.DecentLogo{
+	padding: 10px;
+	padding-top: 0;
+	padding-left: 0;
+	margin: 0;
+	color: white;
+	font-size: 36px;
+	margin-top: -10%;
+	text-align: center;
+	}
+
+#contentIndex h3 {
+	color: white;
+	font-family: Verdana;
+}
+
+.gridCell {
+
+background: rgba(24, 24, 24, 1);
+height: 600px;
+text-align: center;
+
+
+}
+
+
+
+.gridParagraph {
+/* The content inside of the square cell
+in the menu and drinks page*/
+	font-size: 22px;
+	margin-top: auto;
+	padding: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	text-indent: 30px;
+	font-family: sans-serif;
+
+}
+
+			.beer {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/beer.jpg");
+			background-size: cover;
+			background-position: bottom;
+		}
+
+			.tapBeer {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/Tap.jpg");
+			background-size: cover;
+
+			}
+
+			.wine {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/redWine.jpg");
+			background-size: cover;
+
+			}
+
+			.salads {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/salad.jpg");
+			background-size: cover;
+			background-position:center;
+
+			}
+
+			.starters {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/entreeE.jpg");
+			background-size: cover;
+			background-position:center;
+
+			}
+
+			.entree {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/startersE.jpg");
+			background-size: cover;
+			background-position:center;
+
+			}
+
+			.chickenSand {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/hawaiian.jpg");
+			background-size: cover;
+			background-position:center;
+
+			}
+
+			.specialtySand {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/SpecialtyE.jpg");
+			background-size: cover;
+			background-position:center;
+
+			}
+
+			.burgers {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/Burger.jpg");
+			background-size: cover;
+			background-position:center;
+
+			}
+
+			.wraps {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/wrapE.jpg");
+			background-size: cover;
+			background-position:center;
+
+			}
+
+			.vegetarian {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/vegetarian.jpg");
+			background-size: cover;
+			background-position:center;
+
+			}
+
+			.littleLeaguers {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/kidEating.jpg");
+			background-size: cover;
+			background-position:center;
+
+			}
+
+			.extras {
+
+			background: rgb(255, 246, 147);
+			height: 600px;
+			background: url("pictures/extrasE.jpg");
+			background-size: cover;
+			background-position:center;
+
+			}
+
+.AboutContactGeneral h2{
+padding-top: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+}
+
+h1 {
+
+	font-family GothFont;
+	fontnt-weight: 700;;
+	font-size: 150px;
+
+}
+
+h2 {
+
+display:inline-block;
+padding: 25px;
+padding-top: 30px;
+padding-bottom: 5px;
+font-family: Verdana;
+/*color: rgb(255, 246, 147);*/
+color: white;
+font-size: 28px;
+
+}
+
+h3 {
+/*Sub item header in the hidden menus*/
+padding: 10px;
+padding-left: 0;
+margin: 0;
+margin-top: 5%;
+color: black;
+font-size: 26px;
+
+}
+
+h4{
+	font-family: Verdana;
+	font-size: 20px;
+}
+
+.productPic {
+
+object-fit: cover;
+height: 100%;
+margin: auto;
+width: 100%;
+
+}
+
+.row {
+
+	margin-top: none;
+	/*height: 600px;*/
+	max-height: 600px;
+
+}
+
+.col-sm-6.col-xs-12 {
+
+padding: 0;
+
+}
+.col-xs-12 {
+
+
+
+}
+
+.btn-default {
+/* Style of the Buttons menu and drinks page */
+background: none;
+border-radius: 0;
+border: 5px solid rgb(255, 246, 147);
+color: rgb(255, 246, 147);
+transition: 0.5s;
+
+}
+
+.btn-default:hover {
+/* Hover of the buttons in the menu and drinks page */
+background: none;
+border-radius: 0;
+border: 5px solid rgb(224, 160, 58);
+color: rgb(224, 160, 58);
+transition: 0.5s;
+}
+
+#tapBeerButton:hover {
+
+	background: none;
+	border-radius: 0;
+	border: 5px solid rgb(124, 160, 254);
+	color: rgb(124, 160, 254);
+	transition: 0.5s;
+
+}
+
+#wineButton:hover {
+
+	background: none;
+	border-radius: 0;
+	border: 5px solid rgb(254, 120, 124);
+	color: rgb(254, 120, 124);
+	transition: 0.5s;
+
+}
+
+
+/* THIS IS FOR THE HIDDEN MENUs */
+
+
+.menuContent {
+/* the general layout of how the content of
+the menus will be displayed  */
+width: 98%;
+height: 95%;
+border: 10px solid rgba(24, 24, 24, 0.95);
+margin-left: 1%;
+margin-top: 1%;
+overflow: auto;
+font-family: Montserrat;
+
+}
+
+.h2Menu {
+
+color: rgba(24, 24, 24, 0.95);
+padding: 35px;
+padding-bottom: 2px;
+padding-top: 5px;
+/*border-bottom: black 2px solid;*/
+padding-right: 0px;
+text-transform: uppercase;
+font-weight: 700;
+
+}
+
+.hrMenu {
+/*Hr for the actual menus*/
+border-top: 2px solid rgba(24, 24, 24, 1);
+width: 390px;
+/*margin-left: 25px;*/
+margin-top: 0;
+
+}
+.hrMenuSub {
+/*Hr for the actual menu SUBITEMS */
+border-top: 2px solid rgba(24, 24, 24, 1);
+width: 250px;
+/*margin-left: 25px;*/
+margin-top: 0;
+
+}
+
+.menuHeader {
+
+text-align: center;
+
+}
+
+.menuCol {
+
+text-align: center;
+
+}
+
+ul {
+
+padding: 0;
+
+}
+
+ul li {
+
+color: black;
+list-style: none;
+padding: 2px;
+padding-left: 0;
+margin: 0;
+font-size: 20px;
+
+}
+
+/*FOR PAGES ABOUT US AND LOWER LEVEL*/
+.blackBox{
+
+	background-color: #19191A;
+	padding: 35px;
+	border: 5px solid rgb(255, 231, 124);
+	margin: 15%;
+	margin-top: 0;
+	box-shadow: 12px 15px 65px 1px rgba(0, 0, 0, 1);
+
+}
+
+.aboutParagraph {
+
+font-size: 22px;
+margin-top: auto;
+padding: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: justify;
+text-indent: 50px;
+font-family: sans-serif;
+
+}
+
+.aboutImage {
+/*425 × 289*/
+
+padding-left: 35px;
+padding-top: 15px;
+margin-bottom: 20px;
+max-height: 489px;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+.imageDescription {
+width: inherit;
+height: inherit;
+font-size: 18px;
+
+}
+
+.AboutContactGeneral{
+	background-color: #19191A;
+	width: auto;
+	padding-top: 15px;
+	overflow: auto;
+	border: 5px solid rgb(255, 231, 124);
+
+}
+
+.AboutContactConent{
+	display: inline-block;
+	width: 98%;
+	height: 95%;
+	margin-left: 1%;
+	margin-top: 1%;
+	overflow: auto;
+	font-family: Montserrat;
+
+}
+
+table {
+
+	height: 200px;
+	width: 100%;
+	background: rgba(24, 24, 24, 0.8);
+	margin-bottom: 0;
+	border-bottom: 1px solid rgb(255, 231, 124);
+	border-collapse: collapse;
+	border-top: 1px solid rgb(255, 231, 124);
+}
+
+td, th{
+padding: 10px;
+text-align: center;
+border-left: 2px solid rgba(254, 254, 254, 0.1);
+font-family: Verdana;
+font-size: 18px;
+}
+
+th {
+
+	border-top: 1px solid rgb(255, 231, 124);
+
+}
+
+p{
+	font-size: 18px;
+}
+
+.tableHead {
+
+	font-size: 18px;
+}
+
+.beerMenu {
+/* Background color and size of the beer menu*/
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility: hidden;
+box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitBeer {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+padding-left: 0;
+padding-right: 0;
+
+}
+
+#exitBeer:hover {
+
+color: rgba(84, 84, 24, 0.8);
+transition: 0.3s;
+
+}
+
+.tapBeerMenu {
+/* Background color and size of the tap beer menu*/
+margin-top: 600px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 210, 96);
+position: absolute;
+visibility: hidden;
+box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitTapBeer {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitTapBeer:hover {
+
+color: rgba(24, 24, 84, 0.8);
+transition: 0.3s;
+
+}
+
+.wineMenu {
+/* Background color and size of the wine menu*/
+margin-top: 1200px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility: hidden;
+box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitWine {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitWine:hover {
+
+color: rgba(84, 24, 24, 0.8);
+transition: 0.3s;
+
+}
+
+/* SPECIFIC MENU ITEMS HIDDEN MENUS STYLING*/
+
+.burgerMenu {
+
+margin-top: 0px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility:hidden;
+box-shadow:0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitBurger {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitBurger:hover {
+
+color: rgba(84, 84, 24, 0.8);
+transition: 0.3s;
+
+}
+
+.startersMenu {
+
+margin-top: 600px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility:hidden;
+box-shadow:0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitStarters {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitStarters:hover {
+
+color: rgba(84, 84, 24, 0.8);
+transition: 0.3s;
+
+}
+
+.saladsMenu {
+
+margin-top: 1200px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility:hidden;
+box-shadow:0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitSalads {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitSalads:hover {
+
+color: rgba(84, 84, 24, 0.8);
+transition: 0.3s;
+
+}
+
+
+.chicksandMenu {
+
+margin-top: 1800px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility:hidden;
+box-shadow:0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitChicksand {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitChicksand:hover {
+
+color: rgba(84, 84, 24, 0.8);
+transition: 0.3s;
+
+}
+
+
+
+.specialtySandMenu {
+
+margin-top: 2400px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility:hidden;
+box-shadow:0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitSpecialtySand {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitSpecialtySand:hover {
+
+color: rgba(84, 84, 24, 0.8);
+transition: 0.3s;
+
+}
+
+
+.wrapMenu {
+
+margin-top: 3000px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility:hidden;
+box-shadow:0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitWrap {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitWrap:hover {
+
+color: rgba(84, 84, 24, 0.8);
+transition: 0.3s;
+
+}
+
+.entreesMenu {
+
+margin-top: 3600px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility:hidden;
+box-shadow:0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitEntrees {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitEntrees:hover {
+
+color: rgba(84, 84, 24, 0.8);
+transition: 0.3s;
+
+}
+
+
+.LLMenu {
+
+margin-top: 4200px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility:hidden;
+box-shadow:0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitLL {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitLL:hover {
+
+color: rgba(84, 84, 24, 0.8);
+transition: 0.3s;
+
+}
+
+.extrasMenu {
+
+margin-top: 4800px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility:hidden;
+box-shadow:0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitExtras {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitExtras:hover {
+
+color: rgba(84, 84, 24, 0.8);
+transition: 0.3s;
+
+}
+
+
+.vegetarianMenu {
+
+margin-top: 5400px;
+width: 100%;
+height: 600px;
+z-index: 10;
+opacity: 0;
+background: rgb(255, 231, 124);
+position: absolute;
+visibility:hidden;
+box-shadow:0px 4px 3px rgba(0,0,0,0.4),
+			 0px 8px 13px rgba(0,0,0,0.1),
+			 0px 18px 23px rgba(0,0,0,0.1);
+
+/*display: none;*/
+transition: 0.5s;
+
+}
+
+#exitVegetarian {
+
+color: rgba(24, 24, 24, 0.95);
+float: right;
+font-size: 40px;
+padding: 15px;
+transition: 0.3s;
+
+}
+
+#exitVegetarian:hover {
+
+color: rgba(84, 84, 24, 0.8);
+transition: 0.3s;
+
+}
+
+.BubsImage {
+	/*Initially 600x400px - So always scale in proportion to that*/
+height: 100px;
+width: 150px;
+padding-bottom: 10px;
+
+}
+.BubsImageLogo {
+
+max-height: 200px;;
+
+}
+
+.link:hover {
+
+color: rgb(209, 173, 64)
+
+}
+
+.link {
+
+	color: rgb(255, 231, 124);
+	transition: 1s;
+}
+
+
+footer {
+position: absolute;
+width:100%;
+height: 17%;
+background: rgba(20, 20, 20, 1);
+/*height: 150px;*/
+padding-top: 25px;
+text-transform: capitalize;
+text-align: center;
+
+}
+
+footer p {
+
+color: grey;
+font-style: italic;
+
+}
+
+footer a {
+/* Facebook link */
+	font-size: 40px;
+}
+
+.fa-facebook-official {
+
+color: #6d84b4;
+transition: 0.5s;
+}
+
+.fa-facebook-official:hover {
+
+color: #3b5998;
+transition: 0.5s;
+}
+
+#map {
+
+height: 600px;
+
+}
+
+/*#ADD{
+	float: left;
+	width: 50%;
+
+}*/
+
+#ADD img{
+	display: block;
+	width: 50%;
+	position: relative;
+	margin: auto;
+}

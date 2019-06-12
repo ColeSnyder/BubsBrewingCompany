@@ -1,0 +1,28 @@
+<!-- SPECIAL OFFERS TABLE -->
+
+<!-- <table width="100%">
+	<tr>
+		<th colspan="7" class="tableHead">Weekly Specials</th>
+	</tr>
+	<tr>
+		<th>Sunday</th>
+		<th>Monday</th>
+		<th>Tuesday</th>
+		<th>Wednesday</th>
+		<th>Thursday</th>
+		<th>Friday</th>
+		<th>Saturday</th>
+
+	</tr>
+	<tr>
+		<td width="14%">Happy Hour All Day</td>
+		<td width="14%">Free Side Upgrades<br>
+		$2.00 taps and rail mixers</td>
+		<td width="14%">Two for One Entrees</td>
+		<td width="14%">$.50 off Tap Beer<br>
+		$2.00 of Beer Pitchers</td>
+		<td width="14%">$2.00 Off Burgers $2.50<br> Margaritas</td>
+		<td width="14%">Tilapia Dinner - $12.95</td>
+		<td width="14%">Steak and Shrimp Dinner <br>Specials</td>
+	</tr>
+</table> -->
